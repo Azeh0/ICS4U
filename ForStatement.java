@@ -22,7 +22,7 @@ public class ForStatement {
        
       sum = sum + d;
      } 
-     System.out.println("Count is: " + sum); */
+     System.out.println("The sum of even numbers for 1 to 100 is: " + sum); */
      
      /* Output the odd numbers from 1 to 100 
      for(int x=1; x <= 100; x= x + 2)
