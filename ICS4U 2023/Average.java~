@@ -1,0 +1,27 @@
+/**
+ * Auto Generated Java Class.
+ */
+import java.util.Scanner;
+public class Average {
+  
+  
+  public static void main(String[] args) { 
+   
+    Scanner Keyboard = new Scanner(System.in);
+    
+    int Cnt, Total, Average = 0, Num ;
+    
+    Cnt = 0 ;
+    Total = 0 ;
+    
+    for( int z = 0 ; z<=6 ; z=z+1)
+    {
+     
+      Num = Keyboard.nextInt();
+       
+      
+    }
+    System.out.println(Average);
+    
+  }
+}
