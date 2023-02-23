@@ -1,0 +1,26 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class StringBubbleSort {
+  
+  
+  public static void main(String[] args) { 
+    /* a)  Create the code that will read text file, Cars.txt */
+    
+
+    /* b)  Sort the cars by name */
+    
+    
+    /* c)  What are the lines that need to be changes to sort in reverse order? */
+    
+
+    /* d)  Find any duplicate cars,  Take the duplicate out and read in the next car in the file.*/
+    
+
+    /* e)  Output a Count the number of each car brand (Ford, Honda, Nissan...) */
+    
+    
+    
+  }
+ 
+}

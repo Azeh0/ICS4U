@@ -6,11 +6,10 @@ public class BubbleSort {
   
   public static void main(String[] args) { 
     
-     
-    long[] douMyArray = new long[2000000];     
+     long[] douMyArray = new long[100000];     
     int Inner, Outter, cnt , SwapCnt = 0;         
     long douTemp; 
-    for (cnt = douMyArray.length ; cnt < 0 ; cnt--) 
+    for (cnt = 0 ; cnt < douMyArray.length; cnt++) 
     { 
       douMyArray[cnt] = cnt;       
     }
