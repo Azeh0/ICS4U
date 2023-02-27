@@ -68,9 +68,9 @@ public class StringBubbleSort {
 
           {  
             //reverse order
-          //  if (strCar[Inner].compareTo( strCar[Outter])>0) 
+          //  if (strCar[Inner].compareTo(strCar[Outter])>0) 
           
-            if (strCar[Inner].compareTo( strCar[Outter])<0)   
+            if (strCar[Inner].compareTo(strCar[Outter])<0)   
 
             { 
 
@@ -98,16 +98,15 @@ public class StringBubbleSort {
   
        } 
 
-         }   
+         
 
 
     /* e)  Output a Count the number of each car brand (Ford, Honda, Nissan...) */
     
-   // SPC = strCar.indexOf(" ");
+    Spc = strCar.indexOf(" ");
     
-   // Sub = strCar.Substring(0,SPC);
+    Sub = strCar.Substring(0,Spc);
     
-    
-  
- 
+    System.out.println(Sub);
 
+      }
