@@ -30,7 +30,7 @@ public class StringBubbleSort {
             { 
 
                  System.out.println( intCounter + strCar[intCounter] ); 
-
+                 strCar[intCounter] = strCar[intCounter].toUpperCase();
                  intCounter++; 
 
             } 
@@ -95,10 +95,7 @@ public class StringBubbleSort {
 
    } 
 
-    
-
   
-
        } 
 
          }   
@@ -106,6 +103,9 @@ public class StringBubbleSort {
 
     /* e)  Output a Count the number of each car brand (Ford, Honda, Nissan...) */
     
+   // SPC = strCar.indexOf(" ");
+    
+   // Sub = strCar.Substring(0,SPC);
     
     
   
