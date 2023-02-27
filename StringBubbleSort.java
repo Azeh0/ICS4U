@@ -2,7 +2,6 @@ import java.io.*;
  
 public class StringBubbleSort {
 
-
    public static void main(String args[]) throws IOException 
 
    {     
@@ -10,9 +9,9 @@ public class StringBubbleSort {
       
 
       String[] strCar = new String[110];     //Make this an array of cars  
-
+      int[] strCarCnt = new int[110];
      int intCounter=0; 
-
+      
      String strTemp; 
 
       
@@ -28,8 +27,9 @@ public class StringBubbleSort {
      while ( (strCar[intCounter] = ThisIsMyInputFile.readLine())  !=   null) 
 
             { 
-
-                 System.out.println( intCounter + strCar[intCounter] ); 
+               int sub = strCar[intCounter].indexOf(" ");
+                // System.out.println( intCounter + strCar[intCounter] ); 
+                String brand = strCar[intCounter].substring(0, sub);
                  strCar[intCounter] = strCar[intCounter].toUpperCase();
                  intCounter++; 
 
@@ -56,7 +56,7 @@ public class StringBubbleSort {
       }
    }
 
-    System.out.println("Bubble Sort");
+    //System.out.println("Bubble Sort");
 
    
   
@@ -91,22 +91,42 @@ public class StringBubbleSort {
 
    { 
 
-         System.out.println(strCar[z]);  
+        // System.out.println(strCar[z]);  
 
    } 
 
   
-       } 
+     
 
          
 
 
     /* e)  Output a Count the number of each car brand (Ford, Honda, Nissan...) */
-    
-    Spc = strCar.indexOf(" ");
-    
-    Sub = strCar.Substring(0,Spc);
-    
-    System.out.println(Sub);
-
+         
+   
+   
+    for (int k = 0; k < intCounter; k++) {
+      String brand = strCar[k];
+      
+      for (int x = 0; x < intCounter; x++) {
+          if (strCar[x].equals(brand)) {
+            strCarCnt[x]++;
+          }
       }
+  }
+  
+  // Print the results
+  for (int a = 0; a < intCounter; a++) {
+      String brand = strCar[a];
+      int count = strCarCnt[a];
+      if (brand != null && count > 0) {
+          System.out.println(brand + ": " + count);
+      }
+   }
+
+
+
+   
+}
+
+}
