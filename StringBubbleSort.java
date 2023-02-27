@@ -11,6 +11,7 @@ public class StringBubbleSort {
         BufferedReader ThisIsMyInputFile = new BufferedReader(new FileReader("cars.txt"));
 
         while ((strCar[intCounter] = ThisIsMyInputFile.readLine()) != null) {
+            System.out.println( intCounter + strCar[intCounter] );
             int sub = strCar[intCounter].indexOf(" ");
             String brand = strCar[intCounter].substring(0, sub); // Extract the brand name
             strCar[intCounter] = brand.toUpperCase(); // Convert to uppercase
@@ -31,17 +32,34 @@ public class StringBubbleSort {
                 }
             }
         }
+        
+        
+        System.out.println("Bubble Sort");
 
         // Bubble sort
         for (int Outter = 0; Outter < intCounter; Outter++) {
+            
             for (int Inner = Outter + 1; Inner < intCounter; Inner++) {
-                if (strCar[Inner].compareTo(strCar[Outter]) < 0) {
+                 
+                //reverse order
+                //  if (strCar[Inner].compareTo(strCar[Outter])>0) 
+                if (strCar[Inner].compareTo(strCar[Outter]) < 0) 
+                {
                     String strTemp = strCar[Inner];
                     strCar[Inner] = strCar[Outter];
                     strCar[Outter] = strTemp;
                 }
             }
         }
+
+        for (int z = 0; z < 100; z++) 
+
+         { 
+
+         System.out.println(strCar[z]);  
+
+         } 
+
 
         // Count the number of each car brand
         for (int k = 0; k < intCounter; k++) {
