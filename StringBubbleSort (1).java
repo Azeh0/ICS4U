@@ -8,8 +8,6 @@ public class StringBubbleSort {
         int[] strCarCnt = new int[110];
         String[] brand = new String[110];
         int intCounter = 0;
-        String brands = "a";
-        int bcount = 0;
 
         BufferedReader ThisIsMyInputFile = new BufferedReader(new FileReader("cars.txt"));
 
@@ -61,36 +59,32 @@ public class StringBubbleSort {
 
          } 
 
-        for (int f = 2; f < intCounter; f++){
+        for (int f = 1; f < intCounter; f++){
              System.out.println(strCar[f]);
-          int sub = strCar[f].indexOf( " " );
+          int sub = strCar[f].indexOf(" ");
              brand[f] = strCar[f].substring(0, sub); // Extract the brand name
-        System.out.println(sub);
-        System.out.println(brand[f]);
+       // System.out.println(sub);
+       // System.out.println(brand[f]);
+        }
         
-        
-        if (brand[f].compareTo(brand[bcount]) ==0)
-         {
-           strCarCnt[bcount] = strCarCnt[bcount]+1 ; 
-           //DeBug
-           System.out.println ("If Brand at = "+ brand[bcount] + "  Counter[BrdNum] = " +strCarCnt[bcount]);
-         }
-       else
-         {
-           bcount = bcount + 1 ;
-           strCarCnt[bcount] = strCarCnt[bcount]+1 ;
-           brand[bcount] =  brands;
-           //Debug
-           System.out.println ("ELSE Brand at = "+ brand[bcount] + "  Counter[BrdNum] = " +strCarCnt[bcount]);
-         }
-       for (int h = 0; h < intCounter; h++)
-       {
-       System.out.println(brand[f] + strCarCnt[f]);
-       }
-                                      
-       
+        // Count the number of each car brand
+        for (int k = 0; k < intCounter; k++) {
+            brand[k] = strCar[k];
+
+            for (int x = 0; x < intCounter; x++) {
+                if (strCar[x].equals(brand[x])) {
+                    strCarCnt[x]++;
+                }
+            }
+        }
+
+        // Output the results
+        for (int a = 0; a < intCounter; a++) {
+            brand[a] = strCar[a];
+            int count = strCarCnt[a];
+            if (brand[a] != null && count > 0) {
+                System.out.println(brand[a] + ": " + count);
+            }
         } 
-        
     }
 }
-

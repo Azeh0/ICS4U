@@ -6,16 +6,15 @@ public class StringBubbleSort {
 
         String[] strCar = new String[110]; // Make this an array of cars
         int[] strCarCnt = new int[110];
-        String[] brand = new String[110];
         int intCounter = 0;
-        String brands = "a";
-        int bcount = 0;
 
         BufferedReader ThisIsMyInputFile = new BufferedReader(new FileReader("cars.txt"));
 
         while ((strCar[intCounter] = ThisIsMyInputFile.readLine()) != null) {
             // System.out.println( intCounter + strCar[intCounter] );
-            strCar[intCounter] = strCar[intCounter].toUpperCase(); 
+            int sub = strCar[intCounter].indexOf(" ");
+            String brand = strCar[intCounter].substring(0, sub); // Extract the brand name
+            strCar[intCounter] = brand.toUpperCase(); // Convert to uppercase
             intCounter++;
         }
 
@@ -33,7 +32,7 @@ public class StringBubbleSort {
                 }
             }
         }
-        //System.out.println(strCar[0]);
+        
         
        // System.out.println("Bubble Sort");
 
@@ -53,44 +52,33 @@ public class StringBubbleSort {
             }
         }
 
-        for (int z = 0; z < intCounter; z++) 
-          
+        for (int z = 0; z < 100; z++) 
+
          { 
-          
-        //System.out.println(strCar[z] + z);  
+
+       //  System.out.println(strCar[z]);  
 
          } 
 
-        for (int f = 2; f < intCounter; f++){
-             System.out.println(strCar[f]);
-          int sub = strCar[f].indexOf( " " );
-             brand[f] = strCar[f].substring(0, sub); // Extract the brand name
-        System.out.println(sub);
-        System.out.println(brand[f]);
-        
-        
-        if (brand[f].compareTo(brand[bcount]) ==0)
-         {
-           strCarCnt[bcount] = strCarCnt[bcount]+1 ; 
-           //DeBug
-           System.out.println ("If Brand at = "+ brand[bcount] + "  Counter[BrdNum] = " +strCarCnt[bcount]);
-         }
-       else
-         {
-           bcount = bcount + 1 ;
-           strCarCnt[bcount] = strCarCnt[bcount]+1 ;
-           brand[bcount] =  brands;
-           //Debug
-           System.out.println ("ELSE Brand at = "+ brand[bcount] + "  Counter[BrdNum] = " +strCarCnt[bcount]);
-         }
-       for (int h = 0; h < intCounter; h++)
-       {
-       System.out.println(brand[f] + strCarCnt[f]);
-       }
-                                      
-       
-        } 
-        
+
+        // Count the number of each car brand
+        for (int k = 0; k < intCounter; k++) {
+            String brand = strCar[k];
+
+            for (int x = 0; x < intCounter; x++) {
+                if (strCar[x].equals(brand)) {
+                    strCarCnt[x]++;
+                }
+            }
+        }
+
+        // Output the results
+        for (int a = 0; a < intCounter; a++) {
+            String brand = strCar[a];
+            int count = strCarCnt[a];
+            if (brand != null && count > 0) {
+                System.out.println(brand + ": " + count);
+            }
+        }
     }
 }
-
