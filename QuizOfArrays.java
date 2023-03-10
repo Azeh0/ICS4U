@@ -22,7 +22,7 @@ public class QuizOfArrays {
   String TempA;
   String TempB;
   int fCnt=0; 
- 
+  int Sum = 0;
   
  while ((TempA = TheInptFlA.readLine()) != null && (TempB = TheInptFlB.readLine()) != null) 
  {

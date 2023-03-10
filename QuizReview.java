@@ -9,7 +9,7 @@ public class QuizReview {
   
   BufferedReader TheInptFl = new BufferedReader (new FileReader("Q2_NumbersA.txt"));
   
-  BufferedWriter TheOtptFl = new BufferedWriter (new FileWriter("Result.txt"));
+  BufferedWriter TheOtptFl = new BufferedWriter (new FileWriter("ResultQ.txt"));
   
   PrintWriter aPrtWrtr = new PrintWriter (TheOtptFl);
   
@@ -59,30 +59,6 @@ public class QuizReview {
   TheInptFl.close();
   TheOtptFl.close();
   
-  for (int i = 0; i < 10; i++)                               
-  {
-    System.out.println(Data[i] + " ");
-  }
-  
-  for (int Outter = 0; Outter < Data.length ; Outter++)
-    {
-      for (int Inner = Outter +1; Inner < Data.length; Inner++ )
-        { 
-          if (Data[Inner] < Data[Outter])
-          {
-            int douTemp = Data[Inner];
-            Data[Inner] = Data[Outter];
-            Data[Outter] = douTemp;  
-          }
-         }
-     }
- 
-     for (int k = 0; k < Data.length; k++)                               
-  {
-    System.out.println(Data[k] + " ");
-  }
- 
- 
   System.out.println("Enter value to find");
     int search = MyInput.nextInt();
  

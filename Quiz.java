@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-public class QuizReview {
+public class Quiz {
   
   
   public static void main(String[] args)throws IOException  { 
@@ -59,6 +59,31 @@ public class QuizReview {
   TheInptFl.close();
   TheOtptFl.close();
   
+  for (int i = 0; i < 10; i++)                               
+  {
+    System.out.println(Data[i] + " ");
+    aPrtWrtr.println(Data[i]);
+  }
+  
+  for (int Outter = 0; Outter < Data.length ; Outter++)
+    {
+      for (int Inner = Outter +1; Inner < Data.length; Inner++ )
+        { 
+          if (Data[Inner] < Data[Outter])
+          {
+            int douTemp = Data[Inner];
+            Data[Inner] = Data[Outter];
+            Data[Outter] = douTemp;  
+          }
+         }
+     }
+ 
+     for (int k = 0; k < Data.length; k++)                               
+  {
+    System.out.println(Data[k] + " ");
+  }
+ 
+ 
   System.out.println("Enter value to find");
     int search = MyInput.nextInt();
  
@@ -93,4 +118,3 @@ public class QuizReview {
 }
 
   
-
