@@ -1,5 +1,5 @@
 /**
- * Auto Generated Java Class.
+ * Auto Generated Java Class.fefefefwe
  */
 public class BinarySearch {
   
