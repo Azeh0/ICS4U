@@ -1,5 +1,5 @@
 /**
- * Auto Generated Java Class.
+ * Auto Generated Java Class.bb
  */
 import java.util.Scanner;
 public class Average {
