@@ -1,0 +1,45 @@
+TEST
+1
+2
+Evgeni Malkin 
+13
+4
+Sidney Crosby 
+7
+8
+Alexander Ovechkin 
+7
+7
+Marc Savard 
+8
+5
+Pavel Datsyuk 
+6
+6
+Ryan Getzlaf 
+3
+7
+Zach Parise 
+24
+5
+Joe Thornton 
+3
+9
+Patrik Elias 
+9
+9
+Jarome Iginla 
+9
+6
+Jeff Carter 
+9
+2
+Patrick Marleau 
+1
+3
+David Krejci 
+2
+6
+Good End
+22
+12

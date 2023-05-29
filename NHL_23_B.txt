@@ -1,0 +1,4900 @@
+1
+Connor McDavid
+EDM
+L
+60
+78
+138
+2
+Leon Draisaitl
+EDM
+L
+44
+66
+110
+3
+Nikita Kucherov
+TBL
+L
+28
+72
+100
+4
+Matthew Tkachuk
+FLA
+L
+34
+62
+96
+5
+David Pastrnak
+BOS
+R
+48
+45
+93
+6
+Nathan MacKinnon
+COL
+R
+30
+60
+90
+7
+Mitchell Marner
+TOR
+R
+27
+63
+90
+8
+Jason Robertson
+DAL
+L
+41
+48
+89
+9
+Elias Pettersson
+VAN
+L
+33
+56
+89
+10
+Tage Thompson
+BUF
+R
+43
+45
+88
+11
+Ryan Nugent-Hopkins
+EDM
+L
+33
+55
+88
+12
+Erik Karlsson
+SJS
+R
+22
+65
+87
+13
+Mikko Rantanen
+COL
+L
+47
+38
+85
+14
+Sidney Crosby
+PIT
+L
+30
+54
+84
+15
+Brayden Point
+TBL
+R
+44
+38
+82
+16
+Jack Hughes
+NJD
+L
+37
+44
+81
+17
+Artemi Panarin
+NYR
+R
+23
+57
+80
+18
+William Nylander
+TOR
+R
+35
+44
+79
+19
+Tim Stützle
+OTT
+L
+35
+43
+78
+20
+Clayton Keller
+ARI
+L
+34
+44
+78
+21
+Mika Zibanejad
+NYR
+R
+37
+40
+77
+22
+Zach Hyman
+EDM
+R
+30
+45
+75
+23
+Kirill Kaprizov
+MIN
+L
+39
+35
+74
+24
+Evgeni Malkin
+PIT
+L
+24
+50
+74
+25
+Kyle Connor
+WPG
+L
+27
+46
+73
+26
+Brady Tkachuk
+OTT
+L
+30
+42
+72
+27
+Steven Stamkos
+TBL
+R
+30
+42
+72
+28
+Auston Matthews
+TOR
+L
+32
+39
+71
+29
+Jamie Benn
+DAL
+L
+30
+40
+70
+30
+Alex Ovechkin
+WSH
+R
+40
+29
+69
+31
+John Tavares
+TOR
+L
+30
+39
+69
+32
+J.T. Miller
+VAN
+L
+28
+41
+69
+33
+Josh Morrissey
+WPG
+L
+15
+54
+69
+34
+Jeff Skinner
+BUF
+L
+30
+38
+68
+35
+Claude Giroux
+OTT
+R
+28
+40
+68
+36
+Kevin Fiala
+LAK
+L
+22
+46
+68
+37
+Nico Hischier
+NJD
+L
+30
+37
+67
+38
+Dylan Larkin
+DET
+L
+26
+41
+67
+39
+Quinn Hughes
+VAN
+L
+5
+62
+67
+40
+Roope Hintz
+DAL
+L
+32
+34
+66
+41
+Joe Pavelski
+DAL
+R
+20
+46
+66
+42
+Dougie Hamilton
+NJD
+R
+18
+48
+66
+43
+Jordan Kyrou
+STL
+R
+31
+34
+65
+44
+Alex Tuch
+BUF
+R
+30
+35
+65
+45
+Brock Nelson
+NYI
+L
+30
+35
+65
+46
+Tyler Toffoli
+CGY
+R
+29
+36
+65
+47
+Anze Kopitar
+LAK
+L
+26
+39
+65
+48
+Johnny Gaudreau
+CBJ
+L
+17
+48
+65
+49
+Carter Verhaeghe
+FLA
+L
+36
+28
+64
+50
+Jake Guentzel
+PIT
+L
+31
+33
+64
+51
+Jesper Bratt
+NJD
+L
+30
+34
+64
+52
+Martin Necas
+CAR
+R
+27
+37
+64
+53
+Rasmus Dahlin
+BUF
+L
+14
+50
+64
+54
+Adam Fox
+NYR
+R
+10
+54
+64
+55
+Bo Horvat
+VAN,NYI
+L
+36
+27
+63
+56
+Mats Zuccarello
+MIN
+L
+22
+41
+63
+57
+Aleksander Barkov
+FLA
+L
+18
+45
+63
+58
+Pavel Buchnevich
+STL
+L
+23
+39
+62
+59
+Brad Marchand
+BOS
+L
+20
+42
+62
+60
+Mark Scheifele
+WPG
+R
+38
+23
+61
+61
+Andrei Kuzmenko
+VAN
+R
+34
+27
+61
+62
+Elias Lindholm
+CGY
+R
+21
+40
+61
+63
+Cale Makar
+COL
+R
+16
+45
+61
+64
+Miro Heiskanen
+DAL
+L
+11
+50
+61
+65
+Logan Couture
+SJS
+L
+24
+36
+60
+66
+Robert Thomas
+STL
+R
+16
+44
+60
+67
+Brandon Montour
+FLA
+R
+13
+47
+60
+68
+Brandon Hagel
+TBL
+L
+27
+32
+59
+69
+Roman Josi
+NSH
+L
+18
+41
+59
+70
+Timo Meier
+SJS,NJD
+L
+35
+23
+58
+71
+Sebastian Aho
+CAR
+L
+30
+28
+58
+72
+Dylan Cozens
+BUF
+R
+27
+31
+58
+73
+Trevor Zegras
+ANA
+L
+22
+36
+58
+74
+Vincent Trocheck
+NYR
+R
+19
+38
+57
+75
+Vince Dunn
+SEA
+L
+13
+44
+57
+76
+Jared McCann
+SEA
+L
+34
+22
+56
+77
+Pierre-Luc Dubois
+WPG
+L
+24
+32
+56
+78
+Alex DeBrincat
+OTT
+R
+21
+35
+56
+79
+Tomas Hertl
+SJS
+L
+19
+37
+56
+80
+Adrian Kempe
+LAK
+L
+34
+21
+55
+81
+Patrice Bergeron
+BOS
+R
+26
+29
+55
+82
+Andrei Svechnikov
+CAR
+L
+23
+32
+55
+83
+Drake Batherson
+OTT
+R
+21
+34
+55
+84
+Nick Suzuki
+MTL
+R
+21
+34
+55
+85
+Travis Konecny
+PHI
+R
+27
+27
+54
+86
+Sam Reinhart
+FLA
+R
+27
+27
+54
+87
+Jack Eichel
+VGK
+R
+26
+28
+54
+88
+Joel Eriksson Ek
+MIN
+L
+23
+31
+54
+89
+Alex Killorn
+TBL
+L
+22
+32
+54
+90
+Matt Duchene
+NSH
+L
+21
+33
+54
+91
+Jordan Eberle
+SEA
+R
+16
+38
+54
+92
+David Krejci
+BOS
+R
+15
+39
+54
+93
+Chandler Stephenson
+VGK
+L
+13
+41
+54
+94
+Mikhail Sergachev
+TBL
+L
+7
+47
+54
+95
+Troy Terry
+ANA
+R
+20
+33
+53
+96
+Dylan Strome
+WSH
+L
+17
+36
+53
+97
+Brent Burns
+CAR
+R
+12
+41
+53
+98
+Matt Boldy
+MIN
+L
+23
+29
+52
+99
+Patrik Laine
+CBJ
+R
+22
+30
+52
+100
+Patrick Kane
+CHI,NYR
+L
+19
+33
+52
+51
+Jesper Bratt
+NJD
+L
+30
+34
+64
+52
+Martin Necas
+CAR
+R
+27
+37
+64
+53
+Rasmus Dahlin
+BUF
+L
+14
+50
+64
+54
+Adam Fox
+NYR
+R
+10
+54
+64
+55
+Bo Horvat
+VAN,NYI
+L
+36
+27
+63
+56
+Mats Zuccarello
+MIN
+L
+22
+41
+63
+57
+Aleksander Barkov
+FLA
+L
+18
+45
+63
+58
+Pavel Buchnevich
+STL
+L
+23
+39
+62
+59
+Brad Marchand
+BOS
+L
+20
+42
+62
+60
+Mark Scheifele
+WPG
+R
+38
+23
+61
+61
+Andrei Kuzmenko
+VAN
+R
+34
+27
+61
+62
+Elias Lindholm
+CGY
+R
+21
+40
+61
+63
+Cale Makar
+COL
+R
+16
+45
+61
+64
+Miro Heiskanen
+DAL
+L
+11
+50
+61
+65
+Logan Couture
+SJS
+L
+24
+36
+60
+66
+Robert Thomas
+STL
+R
+16
+44
+60
+67
+Brandon Montour
+FLA
+R
+13
+47
+60
+68
+Brandon Hagel
+TBL
+L
+27
+32
+59
+69
+Roman Josi
+NSH
+L
+18
+41
+59
+70
+Timo Meier
+SJS,NJD
+L
+35
+23
+58
+71
+Sebastian Aho
+CAR
+L
+30
+28
+58
+72
+Dylan Cozens
+BUF
+R
+27
+31
+58
+73
+Trevor Zegras
+ANA
+L
+22
+36
+58
+74
+Vincent Trocheck
+NYR
+R
+19
+38
+57
+75
+Vince Dunn
+SEA
+L
+13
+44
+57
+76
+Jared McCann
+SEA
+L
+34
+22
+56
+77
+Pierre-Luc Dubois
+WPG
+L
+24
+32
+56
+78
+Alex DeBrincat
+OTT
+R
+21
+35
+56
+79
+Tomas Hertl
+SJS
+L
+19
+37
+56
+80
+Adrian Kempe
+LAK
+L
+34
+21
+55
+81
+Patrice Bergeron
+BOS
+R
+26
+29
+55
+82
+Andrei Svechnikov
+CAR
+L
+23
+32
+55
+83
+Drake Batherson
+OTT
+R
+21
+34
+55
+84
+Nick Suzuki
+MTL
+R
+21
+34
+55
+85
+Travis Konecny
+PHI
+R
+27
+27
+54
+86
+Sam Reinhart
+FLA
+R
+27
+27
+54
+87
+Jack Eichel
+VGK
+R
+26
+28
+54
+88
+Joel Eriksson Ek
+MIN
+L
+23
+31
+54
+89
+Alex Killorn
+TBL
+L
+22
+32
+54
+90
+Matt Duchene
+NSH
+L
+21
+33
+54
+91
+Jordan Eberle
+SEA
+R
+16
+38
+54
+92
+David Krejci
+BOS
+R
+15
+39
+54
+93
+Chandler Stephenson
+VGK
+L
+13
+41
+54
+94
+Mikhail Sergachev
+TBL
+L
+7
+47
+54
+95
+Troy Terry
+ANA
+R
+20
+33
+53
+96
+Dylan Strome
+WSH
+L
+17
+36
+53
+97
+Brent Burns
+CAR
+R
+12
+41
+53
+98
+Matt Boldy
+MIN
+L
+23
+29
+52
+99
+Patrik Laine
+CBJ
+R
+22
+30
+52
+100
+Patrick Kane
+CHI,NYR
+L
+19
+33
+52
+101
+Max Domi
+CHI,DAL
+L
+19
+33
+52
+102
+Brayden Schenn
+STL
+L
+18
+34
+52
+103
+Reilly Smith
+VGK
+L
+24
+27
+51
+104
+Kevin Hayes
+PHI
+L
+17
+34
+51
+105
+Mathew Barzal
+NYI
+R
+14
+37
+51
+106
+Evgeny Kuznetsov
+WSH
+L
+12
+39
+51
+107
+Rickard Rakell
+PIT
+R
+25
+25
+50
+108
+Dawson Mercer
+NJD
+R
+22
+28
+50
+109
+Nick Schmaltz
+ARI
+R
+21
+29
+50
+110
+Blake Wheeler
+WPG
+R
+15
+35
+50
+111
+Chris Kreider
+NYR
+L
+32
+17
+49
+112
+Jonathan Marchessault
+VGK
+R
+22
+27
+49
+113
+Nazem Kadri
+CGY
+L
+21
+28
+49
+114
+Artturi Lehkonen
+COL
+L
+20
+29
+49
+115
+Matty Beniers
+SEA
+L
+19
+30
+49
+116
+Phillip Danault
+LAK
+L
+18
+31
+49
+117
+Mikael Backlund
+CGY
+L
+17
+32
+49
+118
+Anders Lee
+NYI
+L
+27
+21
+48
+119
+Viktor Arvidsson
+LAK
+R
+20
+28
+48
+120
+Pavel Zacha
+BOS
+L
+18
+30
+48
+121
+Jonathan Huberdeau
+CGY
+L
+14
+34
+48
+122
+Rasmus Andersson
+CGY
+R
+11
+37
+48
+123
+Hampus Lindholm
+BOS
+L
+10
+38
+48
+124
+Alexander Barabanov
+SJS
+L
+15
+32
+47
+125
+J.T. Compher
+COL
+R
+15
+32
+47
+126
+William Karlsson
+VGK
+L
+13
+34
+47
+127
+Tyson Barrie
+EDM,NSH
+R
+11
+36
+47
+128
+Brock Boeser
+VAN
+R
+13
+33
+46
+129
+Alex Pietrangelo
+VGK
+R
+9
+37
+46
+130
+Jake DeBrusk
+BOS
+L
+23
+22
+45
+131
+Charlie McAvoy
+BOS
+R
+6
+39
+45
+132
+Drew Doughty
+LAK
+R
+6
+39
+45
+133
+Michael Bunting
+TOR
+L
+20
+24
+44
+134
+Victor Hedman
+TBL
+L
+7
+37
+44
+135
+Jason Zucker
+PIT
+L
+24
+19
+43
+136
+David Perron
+DET
+R
+16
+27
+43
+137
+Yanni Gourde
+SEA
+L
+11
+32
+43
+138
+Filip Forsberg
+NSH
+R
+19
+23
+42
+139
+Tyler Seguin
+DAL
+R
+17
+25
+42
+140
+Vladimir Tarasenko
+STL,NYR
+L
+15
+27
+42
+141
+Noah Dobson
+NYI
+R
+13
+29
+42
+142
+Casey Mittelstadt
+BUF
+L
+10
+32
+42
+143
+Cam Fowler
+ANA
+L
+9
+33
+42
+144
+Boone Jenner
+CBJ
+L
+24
+17
+41
+145
+Gabriel Vilardi
+LAK
+R
+23
+18
+41
+146
+Dillon Dube
+CGY
+L
+18
+23
+41
+147
+Mason McTavish
+ANA
+L
+16
+25
+41
+148
+Dominik Kubalik
+DET
+L
+18
+22
+40
+149
+Sam Bennett
+FLA
+L
+16
+24
+40
+150
+Bryan Rust
+PIT
+R
+16
+24
+40
+151
+Tomas Tatar
+NJD
+L
+16
+24
+40
+152
+Charlie Coyle
+BOS
+R
+13
+27
+40
+153
+Matias Maccelli
+ARI
+L
+7
+33
+40
+154
+Lawson Crouse
+ARI
+L
+22
+17
+39
+155
+Owen Tippett
+PHI
+R
+21
+18
+39
+156
+Filip Chytil
+NYR
+L
+20
+19
+39
+157
+Eetu Luostarinen
+FLA
+L
+16
+23
+39
+158
+Barrett Hayton
+ARI
+L
+15
+24
+39
+159
+Valeri Nichushkin
+COL
+L
+14
+25
+39
+160
+Andre Burakovsky
+SEA
+L
+13
+26
+39
+161
+Erik Gustafsson
+WSH,TOR
+L
+7
+32
+39
+162
+Mark Stone
+VGK
+R
+17
+21
+38
+163
+Lucas Raymond
+DET
+R
+16
+22
+38
+164
+Oliver Bjorkstrand
+SEA
+R
+16
+22
+38
+165
+Scott Laughton
+PHI
+L
+16
+22
+38
+166
+Conor Garland
+VAN
+R
+12
+26
+38
+167
+Thomas Chabot
+OTT
+L
+10
+28
+38
+168
+Mikael Granlund
+NSH,PIT
+L
+10
+28
+38
+169
+Filip Hronek
+DET
+R
+9
+29
+38
+170
+Jack Roslovic
+CBJ
+R
+9
+29
+38
+171
+K'Andre Miller
+NYR
+L
+8
+30
+38
+172
+Darnell Nurse
+EDM
+L
+8
+30
+38
+173
+Shea Theodore
+VGK
+L
+8
+30
+38
+174
+Andrew Copp
+DET
+L
+8
+30
+38
+175
+Devon Toews
+COL
+L
+6
+32
+38
+176
+Daniel Sprong
+SEA
+R
+17
+20
+37
+177
+Ivan Barbashev
+STL,VGK
+L
+14
+23
+37
+178
+Tony DeAngelo
+PHI
+R
+10
+27
+37
+179
+Cole Caufield
+MTL
+R
+26
+10
+36
+180
+Victor Olofsson
+BUF
+L
+26
+10
+36
+181
+Wyatt Johnston
+DAL
+R
+21
+15
+36
+182
+Anthony Beauvillier
+NYI,VAN
+L
+16
+20
+36
+183
+Taylor Hall
+BOS
+L
+16
+20
+36
+184
+Marcus Johansson
+WSH,MIN
+L
+15
+21
+36
+185
+Kent Johnson
+CBJ
+L
+14
+22
+36
+186
+Kirby Dach
+MTL
+R
+13
+23
+36
+187
+Shayne Gostisbehere
+ARI,CAR
+L
+12
+24
+36
+188
+Morgan Rielly
+TOR
+L
+4
+32
+36
+189
+Nino Niederreiter
+NSH,WPG
+L
+22
+13
+35
+190
+T.J. Oshie
+WSH
+R
+19
+16
+35
+191
+Frank Vatrano
+ANA
+L
+17
+18
+35
+192
+Blake Coleman
+CGY
+L
+17
+18
+35
+193
+Jaden Schwartz
+SEA
+L
+17
+18
+35
+194
+Calle Jarnkrok
+TOR
+R
+17
+18
+35
+195
+Jesperi Kotkaniemi
+CAR
+L
+14
+21
+35
+196
+Morgan Frost
+PHI
+L
+14
+21
+35
+197
+Andrew Mangiapane
+CGY
+L
+14
+21
+35
+198
+Ryan Strome
+ANA
+R
+13
+22
+35
+199
+Jean-Gabriel Pageau
+NYI
+R
+12
+23
+35
+200
+Teuvo Teravainen
+CAR
+L
+11
+24
+35
+201
+Gustav Forsling
+FLA
+L
+10
+25
+35
+202
+Justin Faulk
+STL
+R
+8
+27
+35
+203
+Moritz Seider
+DET
+R
+5
+30
+35
+204
+Kaapo Kakko
+NYR
+L
+13
+21
+34
+205
+Alex Wennberg
+SEA
+L
+12
+22
+34
+206
+Kris Letang
+PIT
+R
+10
+24
+34
+207
+Sean Durzi
+LAK
+R
+7
+27
+34
+208
+Noah Hanifin
+CGY
+L
+6
+28
+34
+209
+Taylor Raddysh
+CHI
+R
+20
+13
+33
+210
+Adam Henrique
+ANA
+L
+19
+14
+33
+211
+Evan Rodrigues
+COL
+R
+14
+19
+33
+212
+Seth Jarvis
+CAR
+R
+13
+20
+33
+213
+Erik Haula
+NJD
+L
+8
+25
+33
+214
+Josh Anderson
+MTL
+R
+21
+11
+32
+215
+Nicholas Paul
+TBL
+L
+17
+15
+32
+216
+Brandon Tanev
+SEA
+L
+15
+17
+32
+217
+Brady Skjei
+CAR
+L
+15
+17
+32
+218
+Alexis Lafrenière
+NYR
+L
+14
+18
+32
+219
+Tommy Novak
+NSH
+L
+14
+18
+32
+220
+Jack Quinn
+BUF
+R
+13
+19
+32
+221
+Conor Sheary
+WSH
+L
+13
+19
+32
+222
+Sonny Milano
+WSH
+L
+11
+21
+32
+223
+Jakob Chychrun
+ARI,OTT
+L
+9
+23
+32
+224
+Rasmus Sandin
+TOR,WSH
+L
+5
+27
+32
+225
+Frederick Gaudreau
+MIN
+R
+13
+18
+31
+226
+Joel Farabee
+PHI
+L
+12
+19
+31
+227
+Mason Marchment
+DAL
+L
+12
+19
+31
+228
+Noah Cates
+PHI
+L
+11
+20
+31
+229
+Seth Jones
+CHI
+R
+10
+21
+31
+230
+Nikolaj Ehlers
+WPG
+L
+9
+22
+31
+231
+Dmitry Orlov
+WSH,BOS
+L
+6
+25
+31
+232
+Samuel Girard
+COL
+L
+5
+26
+31
+233
+Juuso Valimaki
+ARI
+L
+3
+28
+31
+234
+Zach Parise
+NYI
+L
+19
+11
+30
+235
+Shane Pinto
+OTT
+R
+18
+12
+30
+236
+Jordan Staal
+CAR
+L
+16
+14
+30
+237
+Travis Boyd
+ARI
+R
+14
+16
+30
+238
+Phil Kessel
+VGK
+R
+13
+17
+30
+239
+Aaron Ekblad
+FLA
+R
+12
+18
+30
+240
+Ryan Hartman
+MIN
+R
+12
+18
+30
+241
+Stefan Noesen
+CAR
+R
+11
+19
+30
+242
+Blake Lizotte
+LAK
+L
+10
+20
+30
+243
+Adam Lowry
+WPG
+L
+10
+20
+30
+244
+Jared Spurgeon
+MIN
+R
+10
+20
+30
+245
+Cole Perfetti
+WPG
+L
+8
+22
+30
+246
+Adam Larsson
+SEA
+R
+6
+24
+30
+247
+Evan Bouchard
+EDM
+R
+4
+26
+30
+248
+Brandon Saad
+STL
+L
+17
+12
+29
+249
+Ross Colton
+TBL
+L
+16
+13
+29
+250
+Mike Hoffman
+MTL
+L
+12
+17
+29
+251
+Jordan Martinook
+CAR
+L
+11
+18
+29
+252
+Alex Iafallo
+LAK
+L
+10
+19
+29
+253
+Michael Rasmussen
+DET
+L
+10
+19
+29
+254
+Justin Schultz
+SEA
+R
+6
+23
+29
+255
+Jake Sanderson
+OTT
+L
+4
+25
+29
+256
+Trent Frederic
+BOS
+L
+16
+12
+28
+257
+Jonathan Toews
+CHI
+L
+14
+14
+28
+258
+Ilya Mikheyev
+VAN
+L
+13
+15
+28
+259
+Yegor Sharangovich
+NJD
+L
+12
+16
+28
+260
+Kevin Labanc
+SJS
+R
+12
+16
+28
+261
+Ryan Johansen
+NSH
+R
+12
+16
+28
+262
+Christian Dvorak
+MTL
+L
+10
+18
+28
+263
+Anton Lundell
+FLA
+L
+9
+19
+28
+264
+Neal Pionk
+WPG
+R
+9
+19
+28
+265
+John Klingberg
+ANA,MIN
+R
+9
+19
+28
+266
+Jacob Trouba
+NYR
+R
+8
+20
+28
+267
+Alexander Kerfoot
+TOR
+L
+7
+21
+28
+268
+Torey Krug
+STL
+L
+6
+22
+28
+269
+Owen Power
+BUF
+L
+4
+24
+28
+270
+Calen Addison
+MIN
+R
+3
+25
+28
+271
+Nick Bjugstad
+ARI,EDM
+R
+16
+11
+27
+272
+Eeli Tolvanen
+NSH,SEA
+L
+15
+12
+27
+273
+Andreas Athanasiou
+CHI
+L
+14
+13
+27
+274
+Alex Newhook
+COL
+L
+13
+14
+27
+275
+Colton Sissons
+NSH
+R
+11
+16
+27
+276
+Barclay Goodrow
+NYR
+L
+11
+16
+27
+277
+Cody Glass
+NSH
+R
+10
+17
+27
+278
+JJ Peterka
+BUF
+L
+9
+18
+27
+279
+Oskar Sundqvist
+DET,MIN
+R
+9
+18
+27
+280
+Mattias Ekholm
+NSH,EDM
+L
+8
+19
+27
+281
+Evgenii Dadonov
+MTL,DAL
+L
+7
+20
+27
+282
+J.J. Moser
+ARI
+L
+6
+21
+27
+283
+Damon Severson
+NJD
+R
+6
+21
+27
+284
+Jonathan Drouin
+MTL
+L
+2
+25
+27
+285
+Pierre Engvall
+TOR,NYI
+L
+15
+11
+26
+286
+Kyle Palmieri
+NYI
+R
+12
+14
+26
+287
+Kasperi Kapanen
+PIT,STL
+R
+11
+15
+26
+288
+Jeff Carter
+PIT
+R
+11
+15
+26
+289
+Anthony Mantha
+WSH
+L
+10
+16
+26
+290
+Nick Foligno
+BOS
+L
+10
+16
+26
+291
+Jeff Petry
+PIT
+R
+5
+21
+26
+292
+Brett Pesce
+CAR
+R
+4
+22
+26
+293
+Nick Jensen
+WSH
+R
+4
+22
+26
+294
+William Carrier
+VGK
+L
+16
+9
+25
+295
+Eric Staal
+FLA
+L
+13
+12
+25
+296
+Corey Perry
+TBL
+R
+12
+13
+25
+297
+Anthony Cirelli
+TBL
+L
+11
+14
+25
+298
+Nicolas Roy
+VGK
+R
+11
+14
+25
+299
+James van Riemsdyk
+PHI
+L
+10
+15
+25
+300
+Philipp Kurashev
+CHI
+L
+9
+16
+25
+301
+Ty Dellandrea
+DAL
+R
+8
+17
+25
+302
+Sam Steel
+MIN
+L
+8
+17
+25
+303
+Tyler Johnson
+CHI
+R
+8
+17
+25
+304
+Josh Bailey
+NYI
+L
+8
+17
+25
+305
+MacKenzie Weegar
+CGY
+R
+3
+22
+25
+306
+Ryan O'Reilly
+STL,TOR
+L
+15
+9
+24
+307
+Evander Kane
+EDM
+L
+13
+11
+24
+308
+Nick Ritchie
+ARI,CGY
+L
+12
+12
+24
+309
+Nic Dowd
+WSH
+R
+12
+12
+24
+310
+Arthur Kaliyev
+LAK
+L
+11
+13
+24
+311
+Christian Fischer
+ARI
+R
+11
+13
+24
+312
+Sam Lafferty
+CHI,TOR
+R
+11
+13
+24
+313
+Miles Wood
+NJD
+L
+11
+13
+24
+314
+Jimmy Vesey
+NYR
+L
+10
+14
+24
+315
+Matt Roy
+LAK
+R
+9
+15
+24
+316
+Jason Dickinson
+CHI
+L
+9
+15
+24
+317
+Kyle Okposo
+BUF
+R
+9
+15
+24
+318
+Logan O'Connor
+COL
+R
+8
+16
+24
+319
+Mike Matheson
+MTL
+L
+8
+16
+24
+320
+David Kampf
+TOR
+L
+7
+17
+24
+321
+Nick Cousins
+FLA
+L
+6
+18
+24
+322
+Ivan Provorov
+PHI
+L
+5
+19
+24
+323
+Ryan Pulock
+NYI
+R
+4
+20
+24
+324
+Marcus Pettersson
+PIT
+L
+1
+23
+24
+325
+Matt Benning
+SJS
+R
+1
+23
+24
+326
+Ryan Donato
+SEA
+L
+13
+10
+23
+327
+Jonatan Berggren
+DET
+L
+12
+11
+23
+328
+Warren Foegele
+EDM
+L
+12
+11
+23
+329
+Jakob Silfverberg
+ANA
+R
+10
+13
+23
+330
+Trevor Moore
+LAK
+L
+8
+15
+23
+331
+Jesper Fast
+CAR
+R
+8
+15
+23
+332
+Trevor van Riemsdyk
+WSH
+R
+7
+16
+23
+333
+Juuso Parssinen
+NSH
+L
+5
+18
+23
+334
+Michael McLeod
+NJD
+R
+4
+19
+23
+335
+Colton Parayko
+STL
+R
+4
+19
+23
+336
+Matt Grzelcyk
+BOS
+L
+4
+19
+23
+337
+Nico Sturm
+SJS
+L
+13
+9
+22
+338
+Ryan McLeod
+EDM
+L
+11
+11
+22
+339
+Gustav Nyquist
+CBJ
+L
+10
+12
+22
+340
+Peyton Krebs
+BUF
+L
+8
+14
+22
+341
+Mattias Janmark
+EDM
+L
+8
+14
+22
+342
+Morgan Geekie
+SEA
+R
+7
+15
+22
+343
+Tyson Jost
+MIN,BUF
+L
+7
+15
+22
+344
+Fabian Zetterlund
+NJD,SJS
+R
+6
+16
+22
+345
+Ryan Graves
+NJD
+L
+6
+16
+22
+346
+Jaccob Slavin
+CAR
+L
+6
+16
+22
+347
+Mark Giordano
+TOR
+L
+4
+18
+22
+348
+Oliver Ekman-Larsson
+VAN
+L
+2
+20
+22
+349
+Kirill Marchenko
+CBJ
+R
+18
+3
+21
+350
+Pius Suter
+DET
+L
+13
+8
+21
+351
+Noel Acciari
+STL,TOR
+R
+13
+8
+21
+352
+Matt Nieto
+SJS,COL
+L
+12
+9
+21
+353
+Michael Amadio
+VGK
+R
+11
+10
+21
+354
+Derick Brassard
+OTT
+L
+11
+10
+21
+355
+Yakov Trenin
+NSH
+L
+10
+11
+21
+356
+Jamie Oleksiak
+SEA
+L
+9
+12
+21
+357
+Vladislav Namestnikov
+TBL,WPG
+L
+8
+13
+21
+358
+John Carlson
+WSH
+R
+8
+13
+21
+359
+Adam Boqvist
+CBJ
+R
+5
+16
+21
+360
+Sebastian Aho
+NYI
+L
+5
+16
+21
+361
+Dylan DeMelo
+WPG
+R
+4
+17
+21
+362
+Kevin Shattenkirk
+ANA
+R
+4
+17
+21
+363
+Quinton Byfield
+LAK
+L
+3
+18
+21
+364
+Jake McCabe
+CHI,TOR
+L
+3
+18
+21
+365
+Luke Schenn
+VAN,TOR
+R
+3
+18
+21
+366
+Alexander Romanov
+NYI
+L
+2
+19
+21
+367
+Ryan Suter
+DAL
+L
+2
+19
+21
+368
+Garnet Hathaway
+WSH,BOS
+R
+11
+9
+20
+369
+Kailer Yamamoto
+EDM
+R
+10
+10
+20
+370
+Eric Robinson
+CBJ
+L
+9
+11
+20
+371
+Paul Stastny
+CAR
+L
+8
+12
+20
+372
+Esa Lindell
+DAL
+L
+7
+13
+20
+373
+Adam Ruzicka
+CGY
+L
+6
+14
+20
+374
+Brenden Dillon
+WPG
+L
+2
+18
+20
+375
+Jack McBain
+ARI
+L
+11
+8
+19
+376
+Klim Kostin
+EDM
+L
+10
+9
+19
+377
+Nick Bonino
+SJS,PIT
+L
+10
+9
+19
+378
+Lars Eller
+WSH,COL
+L
+9
+10
+19
+379
+Ondrej Palat
+NJD
+L
+8
+11
+19
+380
+Travis Sanheim
+PHI
+L
+7
+12
+19
+381
+Matt Martin
+NYI
+L
+7
+12
+19
+382
+Emil Bemstrom
+CBJ
+R
+6
+13
+19
+383
+Marcus Foligno
+MIN
+L
+6
+13
+19
+384
+Mikey Anderson
+LAK
+L
+5
+14
+19
+385
+Connor Clifton
+BOS
+R
+5
+14
+19
+386
+Olli Maatta
+DET
+L
+5
+14
+19
+387
+Scott Mayfield
+NYI
+R
+5
+14
+19
+388
+Casey Cizikas
+NYI
+L
+5
+14
+19
+389
+Nick Perbix
+TBL
+R
+4
+15
+19
+390
+Pierre-Olivier Joseph
+PIT
+L
+4
+15
+19
+391
+Jonas Siegenthaler
+NJD
+L
+3
+16
+19
+392
+David Savard
+MTL
+R
+3
+16
+19
+393
+Brett Kulak
+EDM
+L
+2
+17
+19
+394
+Nick Leddy
+STL
+L
+2
+17
+19
+395
+Brian Dumoulin
+PIT
+L
+1
+18
+19
+396
+Paul Cotter
+VGK
+L
+13
+5
+18
+397
+Brock McGinn
+PIT,ANA
+L
+11
+7
+18
+398
+Bowen Byram
+COL
+L
+7
+11
+18
+399
+Morgan Barron
+WPG
+L
+7
+11
+18
+400
+Travis Hamonic
+OTT
+R
+6
+12
+18
+401
+Danton Heinen
+PIT
+L
+6
+12
+18
+402
+Adam Pelech
+NYI
+L
+5
+13
+18
+403
+Ben Chiarot
+DET
+L
+5
+13
+18
+404
+Kaiden Guhle
+MTL
+L
+4
+14
+18
+405
+Tyler Bertuzzi
+DET,BOS
+L
+4
+14
+18
+406
+Ryan Lindgren
+NYR
+L
+1
+17
+18
+407
+Marc-Edouard Vlasic
+SJS
+L
+1
+17
+18
+408
+Derek Ryan
+EDM
+R
+12
+5
+17
+409
+Carl Grundstrom
+LAK
+L
+11
+6
+17
+410
+Radek Faksa
+DAL
+L
+11
+6
+17
+411
+Ryan Lomberg
+FLA
+L
+10
+7
+17
+412
+Sean Kuraly
+CBJ
+L
+10
+7
+17
+413
+Andrew Cogliano
+COL
+L
+10
+7
+17
+414
+Dakota Joshua
+VAN
+L
+9
+8
+17
+415
+Trevor Lewis
+CGY
+R
+9
+8
+17
+416
+Max Comtois
+ANA
+L
+8
+9
+17
+417
+Mason Shaw
+MIN
+L
+7
+10
+17
+418
+Connor Dewar
+MIN
+L
+6
+11
+17
+419
+Sean Monahan
+MTL
+L
+6
+11
+17
+420
+Timothy Liljegren
+TOR
+R
+5
+12
+17
+421
+Tanner Jeannot
+NSH,TBL
+L
+5
+12
+17
+422
+Mathieu Joseph
+OTT
+L
+3
+14
+17
+423
+Will Borgen
+SEA
+R
+2
+15
+17
+424
+Ryan McDonagh
+NSH
+L
+2
+15
+17
+425
+Brayden McNabb
+VGK
+L
+1
+16
+17
+426
+Denis Malgin
+TOR,COL
+R
+10
+6
+16
+427
+Zemgus Girgensons
+BUF
+L
+9
+7
+16
+428
+Jesper Boqvist
+NJD
+L
+8
+8
+16
+429
+Adam Erne
+DET
+L
+8
+8
+16
+430
+Joe Veleno
+DET
+L
+7
+9
+16
+431
+Oliver Wahlstrom
+NYI
+R
+7
+9
+16
+432
+Denis Gurianov
+DAL,MTL
+L
+7
+9
+16
+433
+Keegan Kolesar
+VGK
+R
+7
+9
+16
+434
+Robby Fabbri
+DET
+L
+7
+9
+16
+435
+Nate Schmidt
+WPG
+L
+7
+9
+16
+436
+Nils Lundkvist
+DAL
+R
+6
+10
+16
+437
+Braden Schneider
+NYR
+R
+5
+11
+16
+438
+Milan Lucic
+CGY
+L
+5
+11
+16
+439
+Cole Smith
+NSH
+L
+3
+13
+16
+440
+Colin Miller
+DAL
+R
+3
+13
+16
+441
+Dmitry Kulikov
+ANA,PIT
+L
+3
+13
+16
+442
+Ian Cole
+TBL
+L
+3
+13
+16
+443
+Sheldon Dries
+VAN
+L
+10
+5
+15
+444
+Nikita Zadorov
+CGY
+L
+9
+6
+15
+445
+Steven Lorentz
+SJS
+L
+8
+7
+15
+446
+Colin White
+FLA
+R
+8
+7
+15
+447
+Tom Wilson
+WSH
+R
+8
+7
+15
+448
+Calle Rosen
+STL
+L
+7
+8
+15
+449
+Dylan Guenther
+ARI
+R
+6
+9
+15
+450
+Martin Fehervary
+WSH
+L
+6
+9
+15
+451
+Sammy Blais
+NYR,STL
+L
+6
+9
+15
+452
+Jani Hakanpää
+DAL
+R
+6
+9
+15
+453
+Mathieu Olivier
+CBJ
+R
+5
+10
+15
+454
+Nicklas Backstrom
+WSH
+L
+5
+10
+15
+455
+Josh Mahura
+FLA
+L
+4
+11
+15
+456
+Teddy Blueger
+PIT,VGK
+L
+4
+11
+15
+457
+Josh Leivo
+STL
+R
+4
+11
+15
+458
+Jordan Harris
+MTL
+L
+3
+12
+15
+459
+Rasmus Kupari
+LAK
+R
+3
+12
+15
+460
+Brandon Carlo
+BOS
+R
+3
+12
+15
+461
+Nicolas Hague
+VGK
+L
+2
+13
+15
+462
+Justin Holl
+TOR
+R
+2
+13
+15
+463
+Nick Holden
+OTT
+L
+2
+13
+15
+464
+Rafael Harvey-Pinard
+MTL
+L
+9
+5
+14
+465
+Evgeny Svechnikov
+SJS
+L
+8
+6
+14
+466
+Sam Gagner
+WPG
+R
+8
+6
+14
+467
+Max Jones
+ANA
+L
+7
+7
+14
+468
+Hudson Fasching
+NYI
+R
+7
+7
+14
+469
+Tyler Motte
+OTT,NYR
+L
+6
+8
+14
+470
+Jesse Puljujarvi
+EDM,CAR
+R
+5
+9
+14
+471
+Nick Blankenburg
+CBJ
+R
+4
+10
+14
+472
+Isac Lundestrom
+ANA
+L
+4
+10
+14
+473
+Vladislav Gavrikov
+CBJ,LAK
+L
+4
+10
+14
+474
+Caleb Jones
+CHI
+L
+4
+10
+14
+475
+Justin Barron
+MTL
+R
+3
+11
+14
+476
+Ethan Bear
+VAN
+R
+3
+11
+14
+477
+Rasmus Ristolainen
+PHI
+R
+2
+12
+14
+478
+Cam York
+PHI
+L
+1
+13
+14
+479
+Erik Cernak
+TBL
+R
+1
+13
+14
+480
+Cody Ceci
+EDM
+R
+1
+13
+14
+481
+Julien Gauthier
+NYR,OTT
+R
+8
+5
+13
+482
+Wade Allison
+PHI
+R
+8
+5
+13
+483
+Jake Walman
+DET
+L
+7
+6
+13
+484
+Michael Pezzetta
+MTL
+L
+6
+7
+13
+485
+Jalen Chatfield
+CAR
+R
+6
+7
+13
+486
+Tomas Nosek
+BOS
+L
+6
+7
+13
+487
+Arber Xhekaj
+MTL
+L
+5
+8
+13
+488
+Pontus Holmberg
+TOR
+L
+5
+8
+13
+489
+Axel Jonsson-Fjallby
+WPG
+L
+5
+8
+13
+490
+Luke Kunin
+SJS
+R
+5
+8
+13
+491
+Oskar Lindblom
+SJS
+L
+5
+8
+13
+492
+Yegor Chinakhov
+CBJ
+L
+4
+9
+13
+493
+Philip Tomasino
+NSH
+R
+4
+9
+13
+494
+Michael Eyssimont
+WPG,SJS,TBL
+L
+4
+9
+13
+495
+John Marino
+NJD
+R
+4
+9
+13
+496
+Matt Dumba
+MIN
+R
+4
+9
+13
+497
+Nick Seeler
+PHI
+L
+4
+9
+13
+498
+Ryan Reaves
+NYR,MIN
+R
+4
+9
+13
+499
+Radko Gudas
+FLA
+R
+2
+11
+13
+500
+Alec Martinez
+VGK
+L
+2
+11
+13
+501
+Ilya Lyubushkin
+BUF
+R
+2
+11
+13
+502
+Conor Timmins
+ARI,TOR
+R
+2
+11
+13
+503
+Jake Middleton
+MIN
+L
+2
+11
+13
+504
+Carson Soucy
+SEA
+L
+2
+11
+13
+505
+Erik Gudbranson
+CBJ
+R
+1
+12
+13
+506
+Chris Tanev
+CGY
+R
+1
+12
+13
+507
+Brett Ritchie
+CGY,ARI
+R
+8
+4
+12
+508
+Jaret Anderson-Dolan
+LAK
+L
+7
+5
+12
+509
+Nathan Bastian
+NJD
+R
+6
+6
+12
+510
+Craig Smith
+BOS,WSH
+R
+6
+6
+12
+511
+Jesse Ylonen
+MTL
+R
+5
+7
+12
+512
+Alexey Toropchenko
+STL
+L
+5
+7
+12
+513
+Rem Pitlick
+MTL
+L
+5
+7
+12
+514
+Derek Forbort
+BOS
+L
+5
+7
+12
+515
+Nils Aman
+VAN
+L
+4
+8
+12
+516
+Boris Katchouk
+CHI
+L
+4
+8
+12
+517
+Jujhar Khaira
+CHI
+L
+4
+8
+12
+518
+Alex Belzile
+MTL
+R
+4
+8
+12
+519
+Derek Grant
+ANA
+L
+4
+8
+12
+520
+Aliaksei Protas
+WSH
+L
+3
+9
+12
+521
+Sean Walker
+LAK
+R
+3
+9
+12
+522
+Pat Maroon
+TBL
+L
+3
+9
+12
+523
+Marc Staal
+FLA
+L
+3
+9
+12
+524
+Johnathan Kovacevic
+MTL
+R
+2
+10
+12
+525
+Calvin de Haan
+CAR
+L
+2
+10
+12
+526
+Jaycob Megna
+SJS,SEA
+L
+1
+11
+12
+527
+Tyler Myers
+VAN
+R
+1
+11
+12
+528
+Cal Clutterbuck
+NYI
+R
+6
+5
+11
+529
+Ryan Poehling
+PIT
+L
+5
+6
+11
+530
+A.J. Greer
+BOS
+L
+5
+6
+11
+531
+Tyler Pitlick
+STL
+R
+5
+6
+11
+532
+Nicolas Deslauriers
+PHI
+L
+5
+6
+11
+533
+Derek Stepan
+CAR
+R
+5
+6
+11
+534
+Brett Howden
+VGK
+L
+4
+7
+11
+535
+Nicolas Aube-Kubel
+TOR,WSH
+R
+4
+7
+11
+536
+Joel Armia
+MTL
+R
+4
+7
+11
+537
+Marcus Bjork
+CBJ
+R
+3
+8
+11
+538
+Cole Sillinger
+CBJ
+L
+3
+8
+11
+539
+Jeremy Lauzon
+NSH
+L
+3
+8
+11
+540
+Gavin Bayreuther
+CBJ
+L
+2
+9
+11
+541
+Jake Evans
+MTL
+R
+2
+9
+11
+542
+Vinnie Hinostroza
+BUF
+R
+2
+9
+11
+543
+Jonas Brodin
+MIN
+L
+2
+9
+11
+544
+TJ Brodie
+TOR
+L
+2
+9
+11
+545
+Alexander Edler
+LAK
+L
+2
+9
+11
+546
+Erik Brannstrom
+OTT
+L
+1
+10
+11
+547
+Zach Aston-Reese
+TOR
+L
+7
+3
+10
+548
+Liam Foudy
+CBJ
+L
+5
+5
+10
+549
+Andrew Peeke
+CBJ
+R
+5
+5
+10
+550
+Connor Murphy
+CHI
+R
+5
+5
+10
+551
+Josh Archibald
+PIT
+R
+5
+5
+10
+552
+Michael Stone
+CGY
+R
+5
+5
+10
+553
+Juraj Slafkovsky
+MTL
+L
+4
+6
+10
+554
+Zach Whitecloud
+VGK
+R
+4
+6
+10
+555
+Zack MacEwen
+PHI,LAK
+R
+4
+6
+10
+556
+Pierre-Edouard Bellemare
+TBL
+L
+4
+6
+10
+557
+Saku Maenalanen
+WPG
+L
+4
+6
+10
+558
+Scott Harrington
+SJS,ANA
+L
+3
+7
+10
+559
+Mason Appleton
+WPG
+R
+2
+8
+10
+560
+Joel Edmundson
+MTL
+L
+2
+8
+10
+561
+Josh Manson
+COL
+R
+2
+8
+10
+562
+Colin Blackwell
+CHI
+R
+2
+8
+10
+563
+Jon Merrill
+MIN
+L
+2
+8
+10
+564
+Henri Jokiharju
+BUF
+R
+1
+9
+10
+565
+Troy Stecher
+ARI,CGY
+R
+1
+9
+10
+566
+Brandon Duhaime
+MIN
+L
+8
+1
+9
+567
+Austin Watson
+OTT
+R
+7
+2
+9
+568
+Luke Evangelista
+NSH
+R
+5
+4
+9
+569
+Drew O'Connor
+PIT
+L
+5
+4
+9
+570
+Brendan Gallagher
+MTL
+R
+4
+5
+9
+571
+Artem Zub
+OTT
+R
+3
+6
+9
+572
+Dylan Holloway
+EDM
+L
+3
+6
+9
+573
+Nils Hoglander
+VAN
+L
+3
+6
+9
+574
+Simon Benoit
+ANA
+L
+3
+6
+9
+575
+Jan Rutta
+PIT
+R
+3
+6
+9
+576
+MacKenzie Entwistle
+CHI
+R
+3
+6
+9
+577
+Mario Ferraro
+SJS
+L
+3
+6
+9
+578
+Patrick Brown
+PHI,OTT
+R
+3
+6
+9
+579
+Alexandre Carrier
+NSH
+R
+2
+7
+9
+580
+Jacob Bryson
+BUF
+L
+1
+8
+9
+581
+Dante Fabbro
+NSH
+R
+1
+8
+9
+582
+Devin Shore
+EDM
+L
+1
+8
+9
+583
+Joel Kiviranta
+DAL
+L
+7
+1
+8
+584
+Jakub Vrana
+DET,STL
+L
+6
+2
+8
+585
+Elmer Soderblom
+DET
+L
+5
+3
+8
+586
+Brett Leason
+ANA
+R
+5
+3
+8
+587
+Joey Anderson
+TOR,CHI
+R
+5
+3
+8
+588
+Mark Jankowski
+NSH
+L
+5
+3
+8
+589
+Jake Neighbours
+STL
+L
+4
+4
+8
+590
+Kiefer Sherwood
+NSH
+R
+3
+5
+8
+591
+Zach Werenski
+CBJ
+L
+3
+5
+8
+592
+Jordan Greenway
+MIN,BUF
+L
+3
+5
+8
+593
+Chris Tierney
+FLA,MTL
+L
+3
+5
+8
+594
+Brad Hunt
+COL
+L
+3
+5
+8
+595
+Lukas Sedlak
+COL,PHI
+L
+3
+5
+8
+596
+Dylan Samberg
+WPG
+L
+2
+6
+8
+597
+Rasmus Asplund
+BUF,NSH
+L
+2
+6
+8
+598
+Brendan Lemieux
+LAK,PHI
+L
+2
+6
+8
+599
+Jarred Tinordi
+CHI
+L
+2
+6
+8
+600
+Liam O'Brien
+ARI
+L
+1
+7
+8
+601
+Mattias Samuelsson
+BUF
+L
+1
+7
+8
+602
+Kevin Stenlund
+WPG
+R
+5
+2
+7
+603
+Mark Kastelic
+OTT
+R
+4
+3
+7
+604
+Noah Gregor
+SJS
+L
+4
+3
+7
+605
+Josh Brown
+ARI
+R
+4
+3
+7
+606
+Lukas Reichel
+CHI
+L
+3
+4
+7
+607
+Jakob Pelletier
+CGY
+L
+3
+4
+7
+608
+Nikita Alexandrov
+STL
+L
+3
+4
+7
+609
+Karson Kuhlman
+SEA,WPG
+R
+3
+4
+7
+610
+Vitali Kravtsov
+NYR,VAN
+L
+3
+4
+7
+611
+Jonah Gadjovich
+SJS
+L
+3
+4
+7
+612
+Dylan Gambrell
+OTT
+R
+2
+5
+7
+613
+Nathan Walker
+STL
+L
+2
+5
+7
+614
+Jayson Megna
+COL,ANA
+R
+2
+5
+7
+615
+Gustav Lindstrom
+DET
+R
+1
+6
+7
+616
+Ian Mitchell
+CHI
+R
+1
+6
+7
+617
+Philip Broberg
+EDM
+L
+0
+7
+7
+618
+Riley Stillman
+VAN,BUF
+L
+0
+7
+7
+619
+Erik Johnson
+COL
+R
+0
+7
+7
+620
+Simon Holmstrom
+NYI
+L
+5
+1
+6
+621
+Walker Duehr
+CGY
+R
+4
+2
+6
+622
+Pavel Dorofeyev
+VGK
+L
+4
+2
+6
+623
+Reese Johnson
+CHI
+R
+4
+2
+6
+624
+Cole Guttman
+CHI
+R
+4
+2
+6
+625
+Jack Studnicka
+BOS,VAN
+R
+4
+2
+6
+626
+Phillip Di Giuseppe
+VAN
+L
+4
+2
+6
+627
+Alex Chiasson
+DET
+R
+4
+2
+6
+628
+Vasily Podkolzin
+VAN
+L
+3
+3
+6
+629
+Filip Zadina
+DET
+L
+3
+3
+6
+630
+Daniil Miromanov
+VGK
+R
+2
+4
+6
+631
+Jordan Oesterle
+DET
+L
+2
+4
+6
+632
+Alex Goligoski
+MIN
+L
+2
+4
+6
+633
+Ridly Greig
+OTT
+L
+1
+5
+6
+634
+Jake Bean
+CBJ
+L
+1
+5
+6
+635
+Jakub Voracek
+CBJ
+L
+1
+5
+6
+636
+Victor Soderstrom
+ARI
+R
+0
+6
+6
+637
+David Gustafsson
+WPG
+L
+0
+6
+6
+638
+Colton White
+ANA
+L
+0
+6
+6
+639
+Chris Wideman
+MTL
+R
+0
+6
+6
+640
+Jakub Lauko
+BOS
+L
+3
+2
+5
+641
+Rudolfs Balcers
+FLA,TBL
+L
+3
+2
+5
+642
+Jansen Harkins
+WPG
+L
+3
+2
+5
+643
+Anthony Richard
+MTL
+L
+3
+2
+5
+644
+Curtis Lazar
+VAN,NJD
+R
+3
+2
+5
+645
+Sam Carrick
+ANA
+R
+3
+2
+5
+646
+Connor Mackey
+CGY,ARI
+L
+2
+3
+5
+647
+Nicholas Robertson
+TOR
+L
+2
+3
+5
+648
+Martin Kaut
+COL,SJS
+R
+2
+3
+5
+649
+Lane Pederson
+VAN,CBJ
+R
+2
+3
+5
+650
+Matt Irwin
+WSH
+L
+2
+3
+5

@@ -1,0 +1,350 @@
+1
+Connor McDavid
+EDM
+L
+58
+78
+136
+2
+Leon Draisaitl
+EDM
+L
+44
+62
+106
+3
+Nikita Kucherov
+TBL
+L
+28
+72
+100
+4
+Matthew Tkachuk
+FLA
+L
+34
+62
+96
+5
+David Pastrnak
+BOS
+R
+48
+45
+93
+6
+Mitchell Marner
+TOR
+R
+27
+63
+90
+7
+Jason Robertson
+DAL
+L
+41
+48
+89
+8
+Elias Pettersson
+VAN
+L
+33
+56
+89
+9
+Nathan MacKinnon
+COL
+R
+30
+59
+89
+10
+Tage Thompson
+BUF
+R
+43
+45
+88
+11
+Erik Karlsson
+SJS
+R
+22
+65
+87
+12
+Ryan Nugent-Hopkins
+EDM
+L
+31
+55
+86
+13
+Mikko Rantanen
+COL
+L
+47
+38
+85
+14
+Sidney Crosby
+PIT
+L
+29
+54
+83
+15
+Brayden Point
+TBL
+R
+44
+38
+82
+16
+Jack Hughes
+NJD
+L
+37
+44
+81
+17
+Artemi Panarin
+NYR
+R
+23
+57
+80
+18
+William Nylander
+TOR
+R
+35
+44
+79
+19
+Tim Stützle
+OTT
+L
+35
+43
+78
+20
+Mika Zibanejad
+NYR
+R
+37
+40
+77
+21
+Clayton Keller
+ARI
+L
+32
+44
+76
+22
+Kirill Kaprizov
+MIN
+L
+39
+35
+74
+23
+Zach Hyman
+EDM
+R
+30
+44
+74
+24
+Kyle Connor
+WPG
+L
+27
+46
+73
+25
+Evgeni Malkin
+PIT
+L
+24
+49
+73
+26
+Brady Tkachuk
+OTT
+L
+30
+42
+72
+27
+Steven Stamkos
+TBL
+R
+30
+42
+72
+28
+Auston Matthews
+TOR
+L
+32
+39
+71
+29
+Jamie Benn
+DAL
+L
+30
+40
+70
+30
+Alex Ovechkin
+WSH
+R
+40
+29
+69
+31
+John Tavares
+TOR
+L
+30
+39
+69
+32
+J.T. Miller
+VAN
+L
+28
+41
+69
+33
+Josh Morrissey
+WPG
+L
+15
+54
+69
+34
+Jeff Skinner
+BUF
+L
+30
+38
+68
+35
+Claude Giroux
+OTT
+R
+28
+40
+68
+36
+Kevin Fiala
+LAK
+L
+22
+46
+68
+37
+Nico Hischier
+NJD
+L
+30
+37
+67
+38
+Dylan Larkin
+DET
+L
+26
+41
+67
+39
+Quinn Hughes
+VAN
+L
+5
+62
+67
+40
+Roope Hintz
+DAL
+L
+32
+34
+66
+41
+Joe Pavelski
+DAL
+R
+20
+46
+66
+42
+Dougie Hamilton
+NJD
+R
+18
+48
+66
+43
+Jordan Kyrou
+STL
+R
+31
+34
+65
+44
+Alex Tuch
+BUF
+R
+30
+35
+65
+45
+Brock Nelson
+NYI
+L
+30
+35
+65
+46
+Tyler Toffoli
+CGY
+R
+29
+36
+65
+47
+Anze Kopitar
+LAK
+L
+26
+39
+65
+48
+Johnny Gaudreau
+CBJ
+L
+17
+48
+65
+49
+Carter Verhaeghe
+FLA
+L
+36
+28
+64
+50
+Jesper Bratt
+NJD
+L
+30
+34
+64
